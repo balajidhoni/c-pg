@@ -14,6 +14,5 @@ scanf("%d",lowervowel);
 
 else
 printf("\n Enter the uppervowel");
-scanf("%d",uppervowel);
 return0;
-}
+   }
